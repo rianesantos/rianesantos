@@ -2,7 +2,7 @@
 
 I'm a Computer Engineering student at the Federal University of Alagoas (UFAL) in Brazil.
 
-I am focused on backend development, always deepening my knowledge in **Python**, **Java**, **JavaScript**, **C**, **HTML**, ***React** and **Django**. I love solving problems, learning new technologies, and I'm always looking for new challenges!
+I am focused on backend development, always deepening my knowledge in **Python**, **Java**, **JavaScript**, **C**, **HTML**, **React** and **Django**. I love solving problems, learning new technologies, and I'm always looking for new challenges!
 
 ---
 
