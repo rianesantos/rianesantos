@@ -17,7 +17,7 @@ I am focused on backend development, always deepening my knowledge in **Python**
 
 ### 🔗 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/riane-santos-0a5686259/])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riane-santos-0a5686259/)
 
 ---
 
